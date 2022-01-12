@@ -2,7 +2,7 @@ body {
   background-color: white;
 }
 .parallax {
-  background-image: url("https://willthewa.github.io/background.jpg");
+  background-image: href("https://willthewa.github.io/background.jpg");
 
   min-height: 500px;
 
