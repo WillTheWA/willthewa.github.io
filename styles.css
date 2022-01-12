@@ -1,6 +1,14 @@
 body {
   background-color: white;
 }
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Georgia, serif;
+}
+p {
+  text-align: center;
+  font-family: "Times New Roman", Georgia, serif;
+}
 .parallax {
   background-image: src='https://willthewa.github.io/background.jpg';
   min-height: 500px;
