@@ -7,3 +7,9 @@ h1 {
 p {
   font-family: "Times New Roman", Georgia, serif;
 }
+.header {
+  padding: 60px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times New Roman", Georgia, serif;
+}
