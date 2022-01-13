@@ -15,7 +15,7 @@ p1 {
   font-family: "Times New Roman", Georgia, serif;
   font-size: 100%;
   color: black;
-  padding-top: 25px;
+  padding-top: 7px;
 }
 a:link {
   color: white;
@@ -36,6 +36,13 @@ a:active {
   color: white;
   background-color: transparent;
   text-decoration: none;
+}
+h3 {
+  text-align: center;
+  font-family: "Times New Roman", Georgia, serif;
+  font-size: 140%;
+  color: black;
+  padding-top: 25px;
 }
 h2 {
   font-family: "Lato", sans-serif;
