@@ -6,7 +6,7 @@ p {
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
 }
-.parallax {
+parallax {
   background-image: src("imagesFolder/background.jpg");
   min-height: 500px;
   background-attachment: fixed;
