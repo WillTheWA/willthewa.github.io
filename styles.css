@@ -14,7 +14,7 @@ h2 {
   font-family: "Lato", sans-serif;
   text-align: center;
   font-size: 90%;
-  display: inline;
+  display: inline-block;
 }
 .header {
   padding: 60px;
