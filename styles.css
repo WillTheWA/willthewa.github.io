@@ -7,7 +7,7 @@ p {
   font-family: "Times New Roman", Georgia, serif;
 }
 parallax {
-  background-image: src("imagesFolder/background.jpg");
+  background-image: url("https://willthewa.com/imagesFolder/background.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
