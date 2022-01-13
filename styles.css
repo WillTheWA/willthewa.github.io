@@ -10,6 +10,26 @@ p {
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
 }
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
 h2 {
   font-family: "Lato", sans-serif;
   text-align: center;
