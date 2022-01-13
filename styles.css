@@ -10,6 +10,11 @@ p {
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
 }
+h2 {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  font-size: 90%;
+}
 .parallax {
   background-image: url('https://willthewa.com/imagesFolder/background.jpg');
   min-height: 500px;
