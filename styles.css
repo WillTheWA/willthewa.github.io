@@ -18,8 +18,8 @@ h3 {
   font-family: "Times New Roman", Georgia, serif;
   font-size: 270%;
   color: black;
-  padding-top: 20px;
-  padding-bottom: 7px;
+  padding-top: 15px;
+  padding-bottom: 5px;
   padding-left: 30px;
   padding-right: 30px;
 }
@@ -60,16 +60,16 @@ a:active {
   text-decoration: none;
 }
 .header {
-  padding: 0px;
+  padding: 1px;
   text-align: center;
   background: #baadeb;
   color: white;
-  font-size: 40px;
+  font-size: 45px;
   font-family: "Lato", sans-serif;
 }
 .parallax {
   background-image: url('https://willthewa.com/imagesFolder/background.jpg');
-  min-height: 900px;
+  min-height: 925px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
