@@ -13,9 +13,10 @@ p {
 h4 {
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
-  font-size: 100%;
+  font-size: 150%;
   color: black;
-  padding-top: 7px;
+  padding-top: 5px;
+  padding-bottom: 20px;
 }
 a:link {
   color: white;
@@ -40,9 +41,9 @@ a:active {
 h3 {
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
-  font-size: 140%;
+  font-size: 190%;
   color: black;
-  padding-top: 25px;
+  padding-top: 20px;
 }
 h2 {
   font-family: "Lato", sans-serif;
