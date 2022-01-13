@@ -47,7 +47,7 @@ h2 {
 }
 .parallax {
   background-image: url('https://willthewa.com/imagesFolder/background.jpg');
-  min-height: 500px;
+  min-height: 600px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
