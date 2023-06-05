@@ -26,7 +26,7 @@ h3 {
 h4 {
   text-align: left;
   font-family: "Times New Roman", Georgia, serif;
-  font-size: 130%;
+  font-size: 120%;
   color: black;
   padding-top: 0px;
   padding-bottom: 20px;
@@ -75,13 +75,13 @@ p {
   padding-bottom: 10px;
   background-color: #baadeb;
   color: white;
-  font-size: 45px;
+  font-size: 15px;
   font-family: "Lato", sans-serif;
 }
 ul {
-  list-style-type: circle;
+  list-style-type: square;
   font-family: "Times New Roman", Georgia, serif;
-  font-size: 130%;
+  font-size: 120%;
   color: black;
 }
 
