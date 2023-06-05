@@ -86,7 +86,7 @@ a:active {
   .parallax {
     background-attachment: inherit;
   }
-
+}
 .footer {
   text-align: center; 
   width: 100%;
@@ -99,7 +99,6 @@ a:active {
   font-size: 45px;
   font-family: "Lato", sans-serif;
 }
-
 ul {
   list-style-type: circle;
   font-family: "Times New Roman", Georgia, serif;
@@ -107,4 +106,3 @@ ul {
   color: black;
 }
 
-}
