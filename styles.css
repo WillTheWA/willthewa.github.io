@@ -30,7 +30,7 @@ h4 {
   color: black;
   padding-top: 0px;
   padding-bottom: 5px;
-  padding-left: 15px;
+  padding-left: 30px;
   padding-right: 30px;
   font-weight: normal;
 }
@@ -82,12 +82,13 @@ ul {
   list-style-type: square;
   font-family: "Times New Roman", Georgia, serif;
   font-size: 120%;
+  padding-left: 30px;
   color: black;
 }
 #hp  {
-float: right;    
-margin-top: 10px;
-margin-bottom: 30px;
-margin-right: 50px;
-margin-left: 20px;
+  float: right;    
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+  margin-left: 20px;
 }
