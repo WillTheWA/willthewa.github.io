@@ -86,5 +86,8 @@ ul {
 }
 #hp  {
 float: right;    
- margin: 0 0 0 30px;
+margin-top: 10px;
+margin-bottom: 30px;
+margin-right: 50px;
+margin-left: 20px;
 }
