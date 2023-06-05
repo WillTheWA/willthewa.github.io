@@ -38,27 +38,6 @@ p {
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
 }
-
-a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
 .header {
   padding: 1px;
   padding-bottom: 2px;
@@ -94,7 +73,7 @@ a:active {
   left: 0;
   padding-top: 10px;
   padding-bottom: 10px;
-  background: #baadeb;
+  background-color: #baadeb;
   color: white;
   font-size: 45px;
   font-family: "Lato", sans-serif;
