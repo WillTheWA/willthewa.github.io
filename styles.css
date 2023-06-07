@@ -82,7 +82,7 @@ ul {
   list-style-type: square;
   font-family: "Times New Roman", Georgia, serif;
   font-size: 120%;
-  padding-left: 30px;
+  margin-left: 20px;
   color: black;
 }
 #hp {
