@@ -2,7 +2,10 @@
 
 ## TODO
 
-retro themeing and color scheme
-retro typography
-retro images and stuff
-make it look super cool
+retro themeing and color scheme  
+
+retro typography  
+
+retro images and stuff  
+
+make it look super cool  
